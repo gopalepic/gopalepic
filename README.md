@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Self taught Full stack developer  from Jaipur Rajasthan<br><br>- 🔭 I’m worked as  a Web developer at NeoCosmisx<br>- 📚 I'm currently learning Devops + AWS + NextJs <br>- ⚡ In my free time I like to watch anime</p>
+<p align="left">I'm Self taught Full stack developer  from Jaipur Rajasthan<br><br>- 🔭 I’m worked as  a Web developer at NeoCosmisx<br>- 📚 I'm currently learning Devops + AI + ML <br>- ⚡ In my free time I like to invest time on sleeping </p>
 
 ###
 
