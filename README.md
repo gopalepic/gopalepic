@@ -27,8 +27,8 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
+<h3 align="left">🛠 Language , tools and frameworks</h3>
+<p > NextJS , Typescript , Javascript , React , Nodejs , ExpressJS , AWS , Azure , Terraform , Ansible , Github Actions , Azure Devops , CI/CD , Docker </p>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
